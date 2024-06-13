@@ -56,13 +56,13 @@ This repository supports the manuscript...
 
 <div align="center">
 
-> **[Coarse-grained versus fully atomistic machine learning for zeolitic imidazolate frameworks]()**\
+> **[Coarse-grained versus fully atomistic machine learning for zeolitic imidazolate frameworks](https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc02265j)**\
 > _[Zoé Faure Beaulieu](https://twitter.com/ZFaureBeaulieu), [Thomas Nicholas](https://twitter.com/thomascnicholas), [John Gardner](https://twitter.com/jla_gardner), [Andrew Goodwin](https://goodwingroupox.uk/), and [Volker Deringer](http://deringer.chem.ox.ac.uk)_
 
 </div>
 
 See the [sister repository](https://github.com/ZoeFaureBeaulieu/cg-gpr) for 
-details of the digital experiments and results pertaining to the [mansucript]().
+details of the digital experiments and results pertaining to the [mansucript](https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc02265j).
 
 ---
 
